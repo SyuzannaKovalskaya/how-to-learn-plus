@@ -1,8 +1,8 @@
 .hover-link {
+  text-decoration: none;
   transition: opacity 0.3s ease-in-out;
 }
 
 .hover-link:hover {
-  text-decoration: none;
   opacity: .5;
 }
