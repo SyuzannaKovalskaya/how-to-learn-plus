@@ -4,5 +4,8 @@
   min-height: 877px;
   right: -210px;
   top: 0;
-  animation: rotation 20s infinite linear;
+  background-image: url(../../../images/kaufman-triangle.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
